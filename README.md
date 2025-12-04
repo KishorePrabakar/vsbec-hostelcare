@@ -10,3 +10,15 @@
 ## Program Flow
 
 ![Program Flow](misc/program_flow.png)
+
+## Tech Stack
+### Frontend
+1. React
+2. Tailwind CSS
+
+### Backend
+1. Node JS
+2. Express
+3. Mongoose
+4. JWT
+5. MongoDB
