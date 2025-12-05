@@ -11,6 +11,20 @@
 
 ![Program Flow](misc/program_flow.png)
 
+## Project Roadmap
+#### v0: Basic Skeleton
+•	Student can submit complaint (form with: room number, issue description, photo)
+•	Admin can see complaints (list view)
+•	Admin can mark as "fixed"
+•	Basic auth (student login, admin login)
+
+#### v1: Mobile App
+•	Real-time notifications
+•	Email alerts
+•	Fancy UI
+•	Mobile app
+
+
 ## Tech Stack
 ### Frontend
 1. React
